@@ -120,7 +120,9 @@ Considerá informar a tus pacientes que usás herramientas de IA para asistir en
 
 ## Quién lo hizo
 
-Desarrollado por **Juan Ignacio Valdés**, psicólogo clínico (orientación psicoanalítica) y perito psicólogo del Poder Judicial de la Provincia de Buenos Aires. Investigador en el cruce entre inteligencia artificial y psicología.
+Desarrollado por **Juan Ignacio Valdés**, psicólogo clínico (orientación psicoanalítica) y perito psicólogo del Poder Judicial de la Provincia de Buenos Aires. Investigador en el cruce entre inteligencia artificial y psicología. 
+email: valdesjuanignacio@gmail.com
+linkedin: www.linkedin.com/in/juanignacio-valdes-641713ba
 
 ---
 
